@@ -1,42 +1,46 @@
 ## Hi there 👋
 
-I'm a JavaScript focused Frontend Engineer, in Dayton, Ohio. So what does "JavaScript focused" mean? I work with a variety of project types including: React, Webpack, Jest, Gutenberg blocks, Gatsby & and Next.js.
+I'm a JavaScript focused Frontend Engineer, in Dayton, Ohio. So what does "JavaScript focused" mean? I work on a variety of projects including: React, Webpack, Jest, Gutenberg blocks, Gatsby, and Next.js.
 
 ## What I'm working on...
 
-In my free time I'm passionate about working on side projects. Currently, I have a few that I would love to share!
+In my free time I'm passionate about working on side projects. Here are a few of my favorite code experiments:
 
 <details>
-<summary>Timeline App (WIP)</summary>
+<summary>Timeline App</summary>
 
-Okay, so the name isn't so original 😄. Timeline App is a simple social app for creating posts based on a date range. There are no rules for posts other than it must have a title and a date. Users can change post dates, relocate posts to other timelines and have as many timelines as they like. Powered by Firebase and React, this project is one of my favorite learning projects!
+Okay, so the name isn't so original 😄. Timeline App is a simple social app for creating and organizing timelines. Each timeline consist of posts, and each post must have a title, date, and associated timeline. Unlike most social apps, the idea here is that your timeline is a reflection of your life. Users can modify post dates, relocate posts to other timelines and have as many timelines as they like. Under the hood, this PWA is powered by Firebase and React.
 
 See [Timeline App Repo](https://github.com/michealengland/timeline-app)
 
 </details>
 
 <details>
-<summary>Image Sorcery (WIP)</summary>
+<summary>Image Sorcery</summary>
 
-While working on the Timeline App it became clear that I had an image size problem. Image Sorcery is a client side image manipulation tool in the browser powered by [JIMP (JavaScript Image Manipulation Program)](https://www.npmjs.com/package/jimp). My goal for this project is to create a lightweight image editing UI in the browser. This UI will allow users to edit, crop, and enhance images before uploading the newly created file somewhere.
+While working on the Timeline App it became clear that I had an image size problem. While users can add and upload images to posts, they cannot resize or manipulate images. This problem contributes to excessive storage sizes and a poor user experience with creating new posts. Thus the idea for "Image Sorcery" was born.
+
+Image Sorcery is a client side image editing UI for the browser. Behind the scenes this app uses [JIMP (JavaScript Image Manipulation Program)](https://www.npmjs.com/package/jimp) to manipulate the image data directly in the browser. While there are many 3rd party solutions for handling image manipulation, I wanted to create something fun and cost-effective that doesn't require a 3rd party solution.
+
+Eventually, I plan to make this Image Sorcery an NPM package.
 
 See [Image Sorcery Repo](https://github.com/michealengland/image-sorcery)
 
 </details>
 
 <details>
-<summary>Display Exif Data WordPress Plugin</summary>
+<summary>Display Exif Data</summary>
 
-Display Exif Data is a WordPress plugin for allowing users to display image data in WordPress. When I created this project, I didn't want to provide another "custom block" for users to worry about. Instead this plugin filters existing `core/image` block settings to enable display of custom exif data fields. This includes a custom settings page for customizing what exif data settings are allowed and if they can be adjusted at the block level.
+Display Exif Data is a WordPress plugin that enables content creates to display exif data on their images. Rather than provide another "custom block" for users to manage, this plugin attaches additional controls directly into the `core/image` block. This way users can decide at the block level which images they want to display exif data on. Optionally, site-admins can pick and choose which fields they want to allow and if the field choices can be overridden at the block level. Eventually, I plan to extend the functionality to more blocks such as the "Gallery" block.
 
 See [Display Exif Data Repo](https://github.com/michealengland/display-exif-data)
 
 </details>
 
 <details>
-<summary>Micheal.dev 2021</summary>
+<summary>micheal.dev</summary>
 
-At the end of 2020, I decided it's time to refocus my personal site [micheal.dev](https://micheal.dev) with all of the latest practices I've learned over the last two years. My current site is a simple static site built using Gatsby. This time around, I enforced more strict coding standards, re-imagined styling, refactored all of the components, and integrated Jest for testing my code.
+At the end of 2020, I decided it's time to refocus my personal site [micheal.dev](https://micheal.dev) with the latest techniques I've learned over the last two years. My current site is a simple static site built using Gatsby. This time around, I enforced more strict coding standards, re-imagined styling, refactored all of the components, and integrated Jest for testing my code. Also, this site is open source. My goal is to continously add new features and create a scalable platform to grow with alongside my career.
 
 See [Micheal.dev Repo](https://github.com/michealengland/micheal-dev)
 
@@ -45,3 +49,11 @@ See [Micheal.dev Repo](https://github.com/michealengland/micheal-dev)
 ## ⚡ Fun Fact:
 
 I'm a doberman dad, cat father, and soon to be Dad. When I'm not coding, I'm riding motorcycles, modding my car, or binging the latest zombie shows on Netflix.
+
+Some interesting facts about me:
+
+- I'm obsessed with Dobermans and have one
+- My cat is the center of attention often works next to me while coding projects
+- I'm on track for being a Dad soon (scary)
+- Motorcycles are life
+- I binge zombie shows on Netflix, Black Summer is my favorite!
