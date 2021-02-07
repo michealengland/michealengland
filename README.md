@@ -9,7 +9,7 @@ In my free time I'm passionate about working on side projects. Here are a few of
 <details>
 <summary>Timeline App</summary>
 
-Okay, so the name isn't so original 😄. Timeline App is a simple social app for creating and organizing timelines. Each timeline consist of posts, and each post must have a title, date, and associated timeline. Unlike most social apps, the idea here is that your timeline is a reflection of your life. Users can modify post dates, relocate posts to other timelines and have as many timelines as they like. Under the hood, this PWA is powered by Firebase and React.
+Okay, so the name isn't so original 😄. Timeline App is a simple social app for creating and organizing timelines. Each timeline consists of posts, and each post must have a title, date, and associated timeline. Unlike most social apps, the idea here is that your timeline is a reflection of your life. Users can modify post dates, relocate posts to other timelines and have as many timelines as they like. Under the hood, this PWA is powered by Firebase and React.
 
 See [Timeline App Repo](https://github.com/michealengland/timeline-app)
 
@@ -31,7 +31,7 @@ See [Image Sorcery Repo](https://github.com/michealengland/image-sorcery)
 <details>
 <summary>Display Exif Data</summary>
 
-Display Exif Data is a WordPress plugin that enables content creates to display exif data on their images. Rather than provide another "custom block" for users to manage, this plugin attaches additional controls directly into the `core/image` block. This way users can decide at the block level which images they want to display exif data on. Optionally, site-admins can pick and choose which fields they want to allow and if the field choices can be overridden at the block level. Eventually, I plan to extend the functionality to more blocks such as the "Gallery" block.
+Display Exif Data is a WordPress plugin that enables content creators to display exif data on images. Rather than provide another "custom block" for users to manage, this plugin attaches additional controls directly into the `core/image` block. This way users can decide at the block level which images they want to display exif data on. Optionally, site-admins can pick and choose which fields they want to allow and if the field choices can be overridden at the block level. Eventually, I plan to extend the functionality to more blocks such as the "Gallery" block.
 
 See [Display Exif Data Repo](https://github.com/michealengland/display-exif-data)
 
@@ -40,7 +40,7 @@ See [Display Exif Data Repo](https://github.com/michealengland/display-exif-data
 <details>
 <summary>micheal.dev</summary>
 
-At the end of 2020, I decided it's time to refocus my personal site [micheal.dev](https://micheal.dev) with the latest techniques I've learned over the last two years. My current site is a simple static site built using Gatsby. This time around, I enforced more strict coding standards, re-imagined styling, refactored all of the components, and integrated Jest for testing my code. Also, this site is open source. My goal is to continously add new features and create a scalable platform to grow with alongside my career.
+At the end of 2020, I decided it's time to refocus my personal site [micheal.dev](https://micheal.dev) with the latest techniques I've learned over the last two years. My current site is a simple static site built using Gatsby. This time around, I enforced more strict coding standards, re-imagined styling, refactored all of the components, and integrated Jest for testing my code. Also, this site is open source. My goal is to continuously add new features and create a scalable platform to grow alongside my career.
 
 See [Micheal.dev Repo](https://github.com/michealengland/micheal-dev)
 
