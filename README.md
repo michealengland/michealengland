@@ -6,10 +6,8 @@ I'm a JavaScript focused Frontend Engineer, in Dayton, Ohio. So what does "JavaS
 
 In my free time I'm passionate about working on side projects. Currently, I have a few that I would love to share!
 
-### Timeline App (WIP)
-
 <details>
-<summary>Timeline App (WIP)</summary>
+<summary>## Timeline App (WIP)</summary>
 Okay, so the name isn't so original 😄. Timeline App is a simple social app for creating posts based on a date range. There are no rules for posts other than it must have a title and a date. Users can change post dates, relocate posts to other timelines and have as many timelines as they like. Powered by Firebase and React, this project is one of my favorite learning projects!
 
 See [Timeline App Repo](https://github.com/michealengland/timeline-app)
