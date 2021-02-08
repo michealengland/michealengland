@@ -48,10 +48,6 @@ See [Micheal.dev Repo](https://github.com/michealengland/micheal-dev)
 
 ## ⚡ Fun Fact:
 
-I'm a doberman dad, cat father, and soon to be Dad. When I'm not coding, I'm riding motorcycles, modding my car, or binging the latest zombie shows on Netflix.
-
-Some interesting facts about me:
-
 - I'm obsessed with Dobermans and have one
 - My cat is the center of attention often works next to me while coding projects
 - I'm on track for being a Dad soon (scary)
