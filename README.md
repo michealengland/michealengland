@@ -49,7 +49,7 @@ See [Micheal.dev Repo](https://github.com/michealengland/micheal-dev)
 ## ⚡ Fun Fact:
 
 - I'm obsessed with Dobermans and have one
-- My cat is the center of attention often works next to me while coding projects
+- My cat is the center of attention and sleeps on my desk while coding projects
 - I'm on track for being a Dad soon (scary)
 - Motorcycles are life
 - I binge zombie shows on Netflix, Black Summer is my favorite!
