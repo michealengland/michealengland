@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a JavaScript focused Frontend Engineer, in Dayton, Ohio. So what does "JavaScript focused" mean? I work on a variety of projects including: React, Webpack, Jest, Gutenberg blocks, Gatsby, and Next.js.
+I'm a JavaScript focused Frontend Engineer, in Dayton, Ohio. So what does "JavaScript focused" mean? I work on a variety of projects using: JavaScript, React, Webpack, Jest, Gutenberg blocks, Gatsby, and Next.js.
 
 ## What I'm working on...
 
@@ -50,6 +50,6 @@ See [Micheal.dev Repo](https://github.com/michealengland/micheal-dev)
 
 - I'm obsessed with Dobermans and have one
 - My cat is the center of attention and sleeps on my desk while coding projects
-- I'm on track for being a Dad soon (scary)
+- I'm now a Dad as of 2021
 - Motorcycles are life
 - I binge zombie shows on Netflix, Black Summer is my favorite!
