@@ -1,21 +1,27 @@
-## Hi there 👋
+👋 Hey, I'm Mike England, a software engineer focused on building scalable web applications and intuitive user experiences. I specialize in JavaScript, TypeScript, Node.js, and React, with experience leading teams and delivering high-quality products.
 
-I'm Mike, a versatile Front End Engineer and former Development Manager based in Dayton, Ohio. With a strong focus on all things JavaScript, I've honed my skills in React, Webpack, Jest, and Node.js. Lately, I've developed a large passion for building things with Markdown + Astro.js.
+💡 I enjoy creating mini projects that demonstrate real-world engineering skills with a fast turnaround. Right now, I’m working on Mini Spendy, a budget-tracking app in React Native.
+🚗 When I’m not coding, I’m at the track drifting my 350z that I built.
+📬 Let’s connect!
 
-[Learn more about me](https://micheal.dev/)
+## [micheal.dev](https://micheal.dev)
 
-## 🌟 Key Skills:
-- JavaScript, React, TypeScript
-- Webpack, Jest, Gatsby, Next.js, Astro.js
-- CSS, Tailwind, CSS in JS
-- Frontend Architecture, Team Leadership
-- PARA Note-Taking System, Markdown Enthusiast
-- Arduino Ecosystem and DIY Projects
+My personal site and portfolio, built with Astro JS and Tailwind CSS. Showcases my projects, blog posts, and experiments.
 
-## 🚗 Fun Fact:
-- I'm very passionate about static sites + markdown
-- I spend my weekends drifting my 350z at the local race track
-- My cat, Charlie, loves to sleep on my desk while I code
-- I have a dog named Cora who's always up for an adventure
-- I'm a dad and enjoy every moment of it
-- I'm a huge fan of zombie shows on Netflix; Black Summer is my favorite!
+## [Stellar Pages](https://stellarpages.app)
+
+Stellar Pages merges my passion for Markdown with my design background. Originally an Electron app, this privacy-focused web application lets users transform Markdown documents into beautiful, stylized PDFs.
+
+Built with:
+
+- Astro JS
+- Tailwind CSS
+- IndexedDB
+
+## [DSA Flashcards](https://github.com/michealengland/dsa-flashcards)
+
+A simple multiple-choice CLI flashcard system for learning DSA concepts. Built with Node.js, featuring spaced repetition and custom decks. I wanted to refresh my data structures & algorithms knowledge, so I built this as a quick, fun side project while working through [The Last Algorithms Course You'll Need](https://github.com/ThePrimeagen/kata-machine/).
+
+## [Mini Spendy] (WIP)
+
+A React Native budget planner app to track expenses and manage monthly/yearly budgets.
